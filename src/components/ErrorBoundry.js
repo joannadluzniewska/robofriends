@@ -1,4 +1,5 @@
-class ErrorBoundry extends Component {
+import React from 'react';
+class ErrorBoundry extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
