@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http//joannadluzniewska.github.io/robofriends/static/css/main.69b2f444.css",
+    "main.js": "/http//joannadluzniewska.github.io/robofriends/static/js/main.457d1b40.js",
+    "static/js/787.32032a02.chunk.js": "/http//joannadluzniewska.github.io/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/http//joannadluzniewska.github.io/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/http//joannadluzniewska.github.io/robofriends/index.html",
+    "main.69b2f444.css.map": "/http//joannadluzniewska.github.io/robofriends/static/css/main.69b2f444.css.map",
+    "main.457d1b40.js.map": "/http//joannadluzniewska.github.io/robofriends/static/js/main.457d1b40.js.map",
+    "787.32032a02.chunk.js.map": "/http//joannadluzniewska.github.io/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b2f444.css",
+    "static/js/main.457d1b40.js"
+  ]
+}
